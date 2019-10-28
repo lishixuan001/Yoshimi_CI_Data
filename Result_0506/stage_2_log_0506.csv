@@ -1,0 +1,33 @@
+Variables,Confidence Interval
+Intercept,
+(Intercept),-0.453 (-1.223~0.316)
+Age,
+age,0.008 (0.007~0.009)
+Diabete,
+diabPre-diabete,0.203 (-0.555~0.96)
+diabdiabete,0.243 (-0.521~1.007)
+diabUnknown,0.133 (-0.623~0.889)
+BMI,
+bmi,0.006 (0.003~0.008)
+Smoke,
+smokeSmoke,0.021 (-0.025~0.067)
+smokeUnknown,0.033 (-0.003~0.069)
+Country,
+countryMexico,-0.026 (-0.116~0.065)
+countryU.S.,-0.027 (-0.087~0.034)
+Race,
+raceNon-Hispanic Black,0.115 (0.055~0.176)
+raceMexican American,0.065 (0.008~0.122)
+raceOther Hispanic,-0.004 (-0.111~0.103)
+raceOther Race - Including Multi-Racial,0.065 (-0.028~0.159)
+Education,
+education2,0.006 (-0.055~0.066)
+education3,-0.004 (-0.062~0.053)
+education4,-0.02 (-0.078~0.038)
+education5,-0.061 (-0.123~0.002)
+education9,-0.331 (-1.086~0.424)
+Gender,
+genderFemale,0.031 (0.001~0.062)
+sedentary,-0.127 (-0.34~0.085)
+Activity,
+activitycCounts,-0.0 (-0.0~0.0)
