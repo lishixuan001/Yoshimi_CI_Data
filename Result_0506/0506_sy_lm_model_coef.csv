@@ -1,33 +1,28 @@
-Variables,Confidence Interval
+Variables,0506_sy_lm_model_coef.cs
 Intercept,
-(Intercept),85.114 (50.215~120.013)
+(Intercept),84.737*** (49.967~119.508)
 Age,
-age,0.562 (0.522~0.602)
+age,0.562*** (0.523~0.602)
 Diabete,
-diabPre-diabete,5.935 (-28.414~40.283)
-diabdiabete,3.734 (-30.909~38.377)
-diabUnknown,1.983 (-32.303~36.268)
+diabPre-diabete,6.455 (-27.747~40.658)
+diabdiabete,4.038 (-30.473~38.549)
+diabUnknown,2.461 (-31.678~36.601)
 BMI,
-bmi,0.399 (0.293~0.505)
+bmi,0.405*** (0.3~0.511)
 Smoke,
-smokeSmoke,1.695 (-0.403~3.793)
-smokeUnknown,2.721 (1.1~4.342)
+smokeSmoke,1.829 (-0.264~3.921)
+smokeUnknown,2.701*** (1.08~4.322)
 Country,
-countryMexico,-0.869 (-4.963~3.225)
-countryU.S.,1.366 (-1.373~4.105)
+countryUnited States,1.716 (-0.301~3.733)
+raceNon-Hispanic Black,5.487** (1.263~9.712)
 Race,
-raceNon-Hispanic Black,5.926 (3.179~8.673)
-raceMexican American,1.108 (-1.48~3.697)
-raceOther Hispanic,0.063 (-4.794~4.921)
-raceOther Race - Including Multi-Racial,-0.468 (-4.708~3.772)
+raceHispanic,0.375 (-3.769~4.518)
+raceOther,-0.697 (-4.703~3.309)
 Education,
-education2,0.027 (-2.721~2.775)
-education3,-1.051 (-3.648~1.547)
-education4,-1.892 (-4.533~0.75)
-education5,-4.35 (-7.177~-1.523)
-education9,-13.225 (-47.461~21.012)
+educationmore than high school,-2.208** (-3.594~-0.821)
+educationRefused/Missing,-12.979 (-47.206~21.248)
 Gender,
-genderFemale,2.545 (1.163~3.928)
-sedentary,-10.168 (-19.804~-0.532)
+genderFemale,2.542*** (1.161~3.924)
 Activity,
-activitycCounts,-0.001 (-0.007~0.005)
+sedentary,-11.576* (-21.16~-1.991)
+activitycCounts,-0.002 (-0.008~0.004)

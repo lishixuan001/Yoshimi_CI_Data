@@ -1,33 +1,28 @@
-Variables,Confidence Interval
+Variables,stage_3
 Intercept,
-(Intercept),-0.033 (-0.299~0.232)
+(Intercept),-0.019 (-0.283~0.245)
 Age,
-age,0.001 (0.001~0.001)
+age,0.001*** (0.001~0.001)
 Diabete,
-diabPre-diabete,0.021 (-0.24~0.282)
-diabdiabete,0.001 (-0.263~0.264)
-diabUnknown,0.005 (-0.256~0.265)
+diabPre-diabete,0.032 (-0.228~0.292)
+diabdiabete,0.011 (-0.251~0.273)
+diabUnknown,0.016 (-0.243~0.275)
 BMI,
 bmi,-0.0 (-0.001~0.0)
 Smoke,
-smokeSmoke,0.002 (-0.014~0.018)
-smokeUnknown,0.007 (-0.005~0.019)
+smokeSmoke,0.002 (-0.013~0.018)
+smokeUnknown,0.007 (-0.005~0.02)
 Country,
-countryMexico,0.017 (-0.014~0.048)
-countryU.S.,0.014 (-0.007~0.034)
+countryUnited States,0.006 (-0.009~0.021)
+raceNon-Hispanic Black,-0.013 (-0.045~0.019)
 Race,
-raceNon-Hispanic Black,0.004 (-0.017~0.025)
-raceMexican American,-0.004 (-0.023~0.016)
-raceOther Hispanic,0.022 (-0.015~0.059)
-raceOther Race - Including Multi-Racial,0.003 (-0.029~0.036)
+raceHispanic,-0.021 (-0.052~0.011)
+raceOther,-0.012 (-0.042~0.018)
 Education,
-education2,0.007 (-0.014~0.028)
-education3,-0.0 (-0.02~0.02)
-education4,-0.0 (-0.02~0.02)
-education5,-0.0 (-0.022~0.021)
-education9,-0.04 (-0.301~0.22)
+educationmore than high school,-0.003 (-0.014~0.008)
+educationRefused/Missing,-0.038 (-0.298~0.222)
 Gender,
-genderFemale,-0.018 (-0.028~-0.007)
-sedentary,-0.021 (-0.094~0.052)
+genderFemale,-0.018*** (-0.028~-0.007)
 Activity,
+sedentary,-0.022 (-0.095~0.051)
 activitycCounts,-0.0 (-0.0~0.0)
